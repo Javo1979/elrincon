@@ -1,0 +1,19 @@
+{
+  "name": "Frutos Secos El Rincón",
+  "short_name": "El Rincón",
+  "description": "Snacks saludables y productos naturales en Ambato, Ecuador",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFAF6",
+  "theme_color": "#5A7A2B",
+  "orientation": "portrait-primary",
+  "lang": "es-EC",
+  "icons": [
+    {
+      "src": "img/Logo.png",
+      "sizes": "637x642",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
